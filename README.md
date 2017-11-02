@@ -18,4 +18,4 @@
 
 # 识别结果展示
 
-<img src="data/tmp.jpg" width=320 height=240 />
+![](https://github.com/chineseocr/chinses-ocr/blob/master/img/tmp.jpg)  
