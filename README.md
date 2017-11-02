@@ -20,5 +20,5 @@
 ## 文字检测
 ![](https://github.com/chineseocr/chinses-ocr/blob/master/img/tmp.jpg)  
 
-## 文字检测
+## CTC-OCR 文字识别
 ![](https://github.com/chineseocr/chinses-ocr/blob/master/img/result.png)  
