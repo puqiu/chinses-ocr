@@ -17,5 +17,8 @@
 
 
 # 识别结果展示
-
+## 文字检测
 ![](https://github.com/chineseocr/chinses-ocr/blob/master/img/tmp.jpg)  
+
+## 文字检测
+![](https://github.com/chineseocr/chinses-ocr/blob/master/img/result.png)  
